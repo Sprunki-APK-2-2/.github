@@ -3,7 +3,7 @@
 ## ¿Qué es Sprunki APK?
 Sprunki APK es un juego de creación musical con una temática espeluznante y divertida. Es una versión modificada del famoso Incredibox, donde los jugadores pueden mezclar sonidos y crear pistas únicas con personajes aterradores. Cada personaje aporta una voz o un efecto especial, lo que permite experimentar con diversas combinaciones para generar melodías originales.
 
-![download (100)](https://github.com/user-attachments/assets/591044b9-64de-4499-94bf-758ae41df24f)
+![hq720 (14)](https://github.com/user-attachments/assets/0de37669-7091-46dc-8692-44b008f75cbd)
 
 ## 🎉  [**Descarga Ahora**](https://modhello.io/) 🎉
 
@@ -36,6 +36,8 @@ Sprunki APK permite a los jugadores experimentar con la música de manera sencil
 ### Contras
 - No cuenta con modo multijugador.
 - Algunas combinaciones pueden resultar repetitivas.
+
+![Osw4kM](https://github.com/user-attachments/assets/553a9e65-d83d-4e54-842b-71b1194639e1)
 
 ## Diferencias entre Sprunki APK y Versiones Anteriores
 - **Nueva temática** con personajes de terror exclusivos.
